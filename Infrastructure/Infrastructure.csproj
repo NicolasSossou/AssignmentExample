@@ -6,9 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+<<<<<<< Updated upstream
   <ItemGroup>
     <Folder Include="Helpers\" />
     <Folder Include="Services\" />
   </ItemGroup>
 
+=======
+>>>>>>> Stashed changes
 </Project>
