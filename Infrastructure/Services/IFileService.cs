@@ -1,7 +1,6 @@
-﻿
-using Infrastructure.Models;
+﻿using Infrastructure.Models;
 
-namespace Infrastructure.Interfaces;
+namespace Infrastructure.Services;
 
 public interface IFileService
 {
