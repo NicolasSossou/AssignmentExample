@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamAssignment1", "ConsoleApp\ExamAssignment1.csproj", "{28B1E4DB-52CA-4E22-BDF1-C0A09F8298B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamAssignmentoktober", "ConsoleApp\ExamAssignmentoktober.csproj", "{28B1E4DB-52CA-4E22-BDF1-C0A09F8298B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamViewTest1", "ExamViewTest1\ExamViewTest1.csproj", "{E6C966F3-7A62-4B4A-AC62-0D6E0C6957CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamViewTest", "ExamViewTest1\ExamViewTest.csproj", "{E6C966F3-7A62-4B4A-AC62-0D6E0C6957CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
