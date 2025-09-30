@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamAssignmentoktober", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamViewTest", "ExamViewTest1\ExamViewTest.csproj", "{E6C966F3-7A62-4B4A-AC62-0D6E0C6957CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjector", "..\..\..\..\Desktop\kalkylator\CMS25\InlämmningsuppgiftCMS25\TestProjector\TestProjector.csproj", "{FF153976-8642-4220-B29B-6BE671683356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure1", "Infrastructure1\Infrastructure1.csproj", "{C01ACF3F-9397-4640-84E3-FE2F539FE324}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{E6C966F3-7A62-4B4A-AC62-0D6E0C6957CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6C966F3-7A62-4B4A-AC62-0D6E0C6957CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6C966F3-7A62-4B4A-AC62-0D6E0C6957CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF153976-8642-4220-B29B-6BE671683356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF153976-8642-4220-B29B-6BE671683356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF153976-8642-4220-B29B-6BE671683356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF153976-8642-4220-B29B-6BE671683356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C01ACF3F-9397-4640-84E3-FE2F539FE324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01ACF3F-9397-4640-84E3-FE2F539FE324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01ACF3F-9397-4640-84E3-FE2F539FE324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01ACF3F-9397-4640-84E3-FE2F539FE324}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
